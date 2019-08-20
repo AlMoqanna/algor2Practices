@@ -1,0 +1,8 @@
+# Do not track:
+# Compiled source #
+######################
+
+*.com
+*.class
+*.o
+*.e
